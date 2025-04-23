@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+aiofiles
+python-jose
+passlib
+jinja2
+python-dotenv
